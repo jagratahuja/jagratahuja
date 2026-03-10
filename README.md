@@ -102,9 +102,7 @@ Tech: Python, Tkinter, Pygame
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagratahuja&show_icons=true&theme=tokyonight&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jagratahuja&layout=compact&theme=tokyonight)
+![Jagrat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jagratahuja&theme=tokyo-night)
 
 ---
 
