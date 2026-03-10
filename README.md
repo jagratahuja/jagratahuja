@@ -100,7 +100,7 @@ Tech: Python, Tkinter, Pygame
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity Graph
 
 ![Jagrat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jagratahuja&theme=tokyo-night)
 
